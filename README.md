@@ -50,13 +50,12 @@ onde ```listaDeAlunos.xlsx``` pode variar de acordo com o nome do arquivo xlsx q
 
 ### No Google Drive
 
-· Baixe todos os arquivos do drive ou do repositório e coloque numa pasta do GD.
-
-do drive <br>
+· Baixe todos os arquivos do drive ou do repositório e coloque numa pasta do GD <br>
 
 · Em colab.research.google.com, abra o menu e procure por Arquivo -> Google Drive e selecione o arquivo ```cpe-gerador-carteirinha-2022.ipynb```<br>
 
 · Na última linha do primeiro bloco, modifique por pasta onde se encontram todos os recursos necessários. As carteirinhas serão geradas nessa mesma pasta<br>
+```os.chdir('/content/gdrive/My Drive/**MODIFIQUEAQUI**/'```
 
 · Aperte play ▶️ no canto superior esquerdo de cada bloquinho na ordem que se encontram.<br>
 
