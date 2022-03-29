@@ -61,7 +61,7 @@ def main():
 	for index, row in df.iterrows():
 
 		# load base image
-		img = Image.open('base.png')
+		img = Image.open('base2.png')
 
 		# load student informations from xlsx
 		nome = row['Aluno']
