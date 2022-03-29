@@ -12,9 +12,11 @@
 
 · Obrigatoriamente deve ter: nome completo do aluno; id cpe; e turno (vespertino ou noturno) <br>
 
-· Link para foto é opcional, uma vez que podemos colamr na hora as fotos que os alunos trazem na hora da matrícula.
+· Link para foto é opcional, uma vez que podemos colar as fotos que os alunos trazem na hora da matrícula.
 
 ## Customizando
+
+· Imagem base: as cores de ```base2.png``` está diferente de ```base.png``` pq caguei com color replace do photoshop. Mas o psd tá aí para modificar.
 
 · Vc pode abrir em notepad, um editor de texto ou Google Colab (detalhes na seção Rodando) <br>
 
